@@ -1,2 +1,2 @@
-# cvOnline
-Meu currículo online atualizado
+# Currículo Vitae (CV) Online
+Olá, bem vindo ao meu currículo online atualizado!
